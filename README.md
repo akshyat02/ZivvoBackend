@@ -13,7 +13,6 @@ Zivvo API is a robust backend service built with Spring Boot, designed to power 
 - **Database:** PostgreSQL 16
 - **Build Tool:** Maven
 - **ORM:** Spring Data JPA / Hibernate
-- **Security:** JSON Web Token (JWT) with `jjwt`
 - **Documentation:** SpringDoc OpenAPI (Swagger UI)
 - **Utilities:** Lombok
 
